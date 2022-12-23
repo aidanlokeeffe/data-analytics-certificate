@@ -1,0 +1,4 @@
+All of these queries are meant to be run in BigQuery (via Google Cloud),
+but I wanted to put the code up here as evidence of work. It may be
+possible to put links directly from this respository to my BigQuery
+account.
