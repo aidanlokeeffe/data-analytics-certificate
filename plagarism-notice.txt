@@ -1,0 +1,5 @@
+All of the contents of the folders Course 1, Course 2, Course 3, Course 4, Course 5,
+Course 6, and Course 7 were originally pulled from Coursera. This also applied to the 
+contents of the Course 8 folder, unless stated otherwise. I do not claim to be the orignal
+creator of these documents. My purpose for including them in this respository has been to 
+create a record that I was pursuing this certificate.
