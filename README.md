@@ -1,7 +1,8 @@
-The primary purpose of this repository is to have a public place to track all of my work towards the Google Data Analytics Certificate through Coursera, eventually including the project.
+The purpose of this respository is to demonstrate my efforts to earn the Google Data Analytics Certificate via Coursera, including the capstone project.
 
-It serves the secondary purposes of
-  1) Allowing me to fill out my activity heat map a little bit, and
-  2) Getting me in the habit of making frequent contributions to GitHub
+The skills demonstrated by this certificate include:
+  1) Strength in Excel, SQL, and R, and exposure to Tableau,
+  2) Data preparation, processing, analysis, and storytelling, and
+  3) Understanding of the principles and best practices of data analytics.
   
-When you're just starting out, merely showing up is progress.
+I will consider this respository presentable once I have completed the capstone project and finished the one course that remains.
