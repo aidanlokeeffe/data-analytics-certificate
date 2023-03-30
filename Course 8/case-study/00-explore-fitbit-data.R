@@ -1,6 +1,5 @@
 # Change working directory
-setwd("C:/Users/aidan/OneDrive/Desktop/data-analytics-certificate/Course 8/case-study/fitbit-data")
-
+setwd("C:/Users/aidan/OneDrive/Desktop/bellabeat-case-study")
 # Load in packages
 install.packages("tidyverse")
 library(tidyverse)
